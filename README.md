@@ -26,7 +26,7 @@
 
 ## Other Solutions
 
-### Docker Offers a lab where you can run all of the required containers in a browser. You need to create a (free) account and login with it in order to access the playground:
+### Docker offers a lab where you can run all of the required containers in a browser. You need to create a free account and login with it in order to access the playground:
 
 [Browser Playground](https://labs.play-with-docker.com/)
 
@@ -68,3 +68,8 @@ docker run hello-world
 <br />
 
 [Node REST Server](https://github.com/matthewrutter/docker-node.git)
+
+<br />
+<br />
+
+:sunglasses: ### Enjoy :sunglasses:
