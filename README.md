@@ -72,4 +72,4 @@ docker run hello-world
 <br />
 <br />
 
-:sunglasses: ### Enjoy :sunglasses:
+:sunglasses: Enjoy :sunglasses:
