@@ -72,4 +72,22 @@ docker run hello-world
 <br />
 <br />
 
+
+## Digital Ocean Access
+
+<br />
+
+### Digital Ocean is a cloud service that will be used during the presentation. If you wish to participate in the cloud server portion you need to create an account with digital ocean. Creation of digital ocean servers, referred to as droplets, requires money to pay for the resources used. If you don't already have an account with digital ocean you can use the Github Student Developer Pack to get free credits (50$ as of 10/13/2020) for server usage. This will be more than enough for the $0.05 - $0.15 worth of resources used during the presentation.
+
+<br />
+
+[Github Student Developer Pack](https://education.github.com/pack)
+
+<br />
+
+[Digital Ocean](https://www.digitalocean.com/)
+
+<br />
+<br />
+
 :sunglasses: Enjoy :sunglasses:
